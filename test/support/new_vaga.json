@@ -1,0 +1,30 @@
+[
+  {
+    "empresa":"BRQ",
+    "dt_criacao":"20190101",
+    "codigo": 60000,
+    "titulo": "Analista Requisitos Pleno",
+    "desc": " Desenvolver e implantar sistemas informatizados dimensionando requisitos e funcionalidade do sistema, auxiliando na especificação da sua arquitetura, escolhendo ferramentas de desenvolvimento e especificando programas. Elaborar documentação para os sistemas e aplicações de fácil entendimento, visando a melhor interpretação dos programadores; Efetuar o levantamento das informações através de entrevistas com os clientes finais e gestores de desenvolvimento, visando elaborar os processos que serão utilizados na confecção dos sistemas e aplicações; Desenhar o diagrama de fluxos de informações, bem como inventariar software e hardware, efetuando o levantamento de todas as ferramentas necessárias para o desenvolvimento do projeto; Elaborar documentos necessários para o desenvolvimento do sistema e aplicação, efetuar toda a documentação necessária sobre níveis de serviços, capacidade e performance, soluções disponíveis, efetuando a divulgação destas para as áreas envolvidas; Visando manter atualizados os sistemas e aplicações da empresa; ",
+    "requisitos":[],
+    "beneficios": [],
+    "salario": {"unidade": "BRL", "periodicidade":"mensal", "valor":6500.00, "qt_ano":13},
+    "localidade":"04520-000",
+    "area_atuacao":"recursos humanos",
+    "anos_experiencia": {"min":1,"max":20},
+    "nivel": {"cargo":"tecnico", "gerencia_equipe":false}
+  },
+  {
+    "empresa":"BRQ",
+    "dt_criacao":"20190101",
+    "codigo": 60001,
+    "titulo": "Desenvolvedor Java",
+    "desc": " Programar em Java ",
+    "requisitos":[],
+    "beneficios": [],
+    "salario": {"unidade": "BRL", "periodicidade":"mensal", "valor":6500.00, "qt_ano":13},
+    "localidade":"04520-000",
+    "area_atuacao":"recursos humanos",
+    "anos_experiencia": {"min":1,"max":20},
+    "nivel": {"cargo":"tecnico", "gerencia_equipe":false}
+  }
+]

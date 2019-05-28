@@ -1,0 +1,1232 @@
+[
+    {
+        "titulo": "Código: 56890 - Título: Analista Requisitos Senior",
+        "texto": " Desenvolver e implantar sistemas informatizados dimensionando requisitos e funcionalidade do sistema, auxiliando na especificação da sua arquitetura, escolhendo ferramentas de desenvolvimento e especificando programas. Elaborar documentação para os sistemas e aplicações de fácil entendimento, visando a melhor interpretação dos programadores; Efetuar o levantamento das informações através de entrevistas com os clientes finais e gestores de desenvolvimento, visando elaborar os processos que serão utilizados na confecção dos sistemas e aplicações; Desenhar o diagrama de fluxos de informações, bem como inventariar software e hardware, efetuando o levantamento de todas as ferramentas necessárias para o desenvolvimento do projeto; Elaborar documentos necessários para o desenvolvimento do sistema e aplicação, efetuar toda a documentação necessária sobre níveis de serviços, capacidade e performance, soluções disponíveis, efetuando a divulgação destas para as áreas envolvidas; Elaborar os estudos de viabilidade técnica e econômica, bem como especificações técnicas, verificando a viabilidade do projeto; Realizar auditoria e monitorar a performance do sistema e aplicação, identificando e corrigindo falhas e executando procedimentos para melhorias; Ministrar treinamento, preparando conteúdo programático e o material didático, determinando os pré-requisitos do treinamento, e os recursos áudio visuais; Pesquisar e identificar novas tecnologias, identificando fornecedores, solicitando demonstrações de produto e avaliando a funcionalidade do produto, visando manter atualizados os sistemas e aplicações da empresa; Coordenar projetos de desenvolvimento de sistemas e aplicações, selecionando equipes de trabalho, preparando cronogramas de atividades e financeiro, administrando recursos internos e externos, delegando funções e acompanhando a execução do projeto, avaliando a qualidade dos sistemas e aplicações desenvolvidos e validando o produto final junto aos clientes; Testes unitário e acompanhamento da homologação nas áreas de negócio.",
+        "tokens": [
+            {
+                "item": "acompanh",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "administr",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "aplica",
+                "tfidf": 0.228013940998962
+            },
+            {
+                "item": "arquitet",
+                "tfidf": 0.041944209156205926
+            },
+            {
+                "item": "ativ",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "atrav",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "atual",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "audit",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "auxili",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "avali",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "bem",
+                "tfidf": 0.08388841831241185
+            },
+            {
+                "item": "capac",
+                "tfidf": 0.03257342014270886
+            },
+            {
+                "item": "client",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "confec",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "conted",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "coorden",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "corrig",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "cronogram",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "deleg",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "demonstra",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "desenh",
+                "tfidf": 0.041944209156205926
+            },
+            {
+                "item": "desenvolv",
+                "tfidf": 0.228013940998962
+            },
+            {
+                "item": "dest",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "determin",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "diagram",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "did",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "dimension",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "dispon",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "divulga",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "document",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "documenta",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "econom",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "efetu",
+                "tfidf": 0.22060637790328816
+            },
+            {
+                "item": "elabor",
+                "tfidf": 0.1677768366248237
+            },
+            {
+                "item": "empr",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "entend",
+                "tfidf": 0.041944209156205926
+            },
+            {
+                "item": "entrev",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "envolv",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "equip",
+                "tfidf": 0.03257342014270886
+            },
+            {
+                "item": "escolh",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "especific",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "especifica",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "estud",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "execu",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "execut",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "extern",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "falh",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "fcil",
+                "tfidf": 0.03257342014270886
+            },
+            {
+                "item": "ferrament",
+                "tfidf": 0.08388841831241185
+            },
+            {
+                "item": "final",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "financ",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "flux",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "fornec",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "fun",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "funcional",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "ges",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "hardw",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "homologa",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "identific",
+                "tfidf": 0.1654547834274661
+            },
+            {
+                "item": "implant",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "inform",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "informa",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "intern",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "interpreta",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "inventari",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "junt",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "levant",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "mant",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "mater",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "melh",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "melhor",
+                "tfidf": 0.03257342014270886
+            },
+            {
+                "item": "ministr",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "monitor",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "necessr",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "necessri",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "negci",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "nov",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "nvel",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "performanc",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "pesquis",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "prepar",
+                "tfidf": 0.08388841831241185
+            },
+            {
+                "item": "prerequisit",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "proced",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "process",
+                "tfidf": 0.041944209156205926
+            },
+            {
+                "item": "produt",
+                "tfidf": 0.1654547834274661
+            },
+            {
+                "item": "program",
+                "tfidf": 0.1654547834274661
+            },
+            {
+                "item": "projet",
+                "tfidf": 0.1677768366248237
+            },
+            {
+                "item": "rea",
+                "tfidf": 0.08388841831241185
+            },
+            {
+                "item": "realiz",
+                "tfidf": 0.03257342014270886
+            },
+            {
+                "item": "recurs",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "requisit",
+                "tfidf": 0.03257342014270886
+            },
+            {
+                "item": "selecion",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "servi",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "sistem",
+                "tfidf": 0.49636435028239834
+            },
+            {
+                "item": "sobr",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "softw",
+                "tfidf": 0.03257342014270886
+            },
+            {
+                "item": "solicit",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "solu",
+                "tfidf": 0.03257342014270886
+            },
+            {
+                "item": "tecn",
+                "tfidf": 0.08388841831241185
+            },
+            {
+                "item": "tecnolog",
+                "tfidf": 0.041944209156205926
+            },
+            {
+                "item": "test",
+                "tfidf": 0.041944209156205926
+            },
+            {
+                "item": "tod",
+                "tfidf": 0.08388841831241185
+            },
+            {
+                "item": "trabalh",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "trein",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "udi",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "unitri",
+                "tfidf": 0.041944209156205926
+            },
+            {
+                "item": "utiliz",
+                "tfidf": 0.03257342014270886
+            },
+            {
+                "item": "valid",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "verific",
+                "tfidf": 0.05515159447582204
+            },
+            {
+                "item": "viabil",
+                "tfidf": 0.11030318895164408
+            },
+            {
+                "item": "vis",
+                "tfidf": 0.1654547834274661
+            },
+            {
+                "item": "visual",
+                "tfidf": 0.05515159447582204
+            }
+        ]
+    },
+    {
+        "titulo": "Código: 56891 - Título: Desenvolvedor Backend Java Senior",
+        "texto": " Qualificações: - Ensino Superior completo em uma ou mais das seguintes áreas: Engenharia, Ciência da Computação ou faculdades relacionadas à tecnologia. -experiência prática com desenvolvimento de aplicações WEB e Mobile utilizando Java (JEE) -experiência em desenvolvimento de aplicações modernas utilizando Spring / Spring Boot e SPA (Single Page Application) -experiência com processos CI/CD -experiência com testes unitários e integrados (TDD e BDD) - Sólidos conhecimentos nas seguintes tecnologias/frameworks: - Java 6+ - Spring 3+ - SpringBoot (Preferencial) - Hibernate / JPA / SpringData - REST e SOAP - JSON, XML - OAuth2.0 e JWT - DevOps – Git, Maven, Jenkins, SonarQube, Docker, etc. - Junit, Mockito, JMeter, SoapUI (Ou similares) - Javascript (Angular ou React), HTML5, CSS3 – Desejável - Banco de Dados Oracle e PL/SQL - Linux / Apache Tomcat / Nginx - Selenium e Cucumber (Desejável) - Angular 2+ ou React (Diferencial) - Ionic 2/3 (Diferencial) Responsabilidades: - Desenvolver aplicação WEB responsiva utilizando conceitos de micro-serviços. - Escrever códigos bem estruturados, eficientes, testáveis e reutilizáveis. - Escrever testes unitários e integrados com alto grau de cobertura dos requisitos. - Assegurar que as melhores práticas de codificação sejam seguidas pelos juniors. - Preparar e produzir os pacotes de software a serem entregues. - Analisar logs, evidenciar problemas e diagnósticos. - Suportar os desenvolvedores mais juniors. - Garantir qualidade do código entregue e realizar revisão de código. - Habilidade em atuar com equipes multi-disciplinares em ambiente ágil. - Perfil: forte capacidade analítica, orientado a resultados, colaborativo, fácil adaptação a mudanças e solução de problemas. - Certificação Java (Diferencial)",
+        "tokens": [
+            {
+                "item": "adapta",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "alt",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "ambi",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "anal",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "analis",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "angul",
+                "tfidf": 0.14375462898282065
+            },
+            {
+                "item": "apach",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "aplica",
+                "tfidf": 0.12735569946312567
+            },
+            {
+                "item": "application",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "assegur",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "atu",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "banc",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "bdd",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "bem",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "boot",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "capac",
+                "tfidf": 0.042451899821041895
+            },
+            {
+                "item": "cdig",
+                "tfidf": 0.16399365102322383
+            },
+            {
+                "item": "certifica",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "cicd",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "cinc",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "cobert",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "codifica",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "colabor",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "complet",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "computa",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "conceit",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "conhec",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "cs",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "cucumb",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "dad",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "desej",
+                "tfidf": 0.14375462898282065
+            },
+            {
+                "item": "desenvolv",
+                "tfidf": 0.16980759928416758
+            },
+            {
+                "item": "devop",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "diagns",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "difer",
+                "tfidf": 0.16399365102322383
+            },
+            {
+                "item": "dock",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "efici",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "engenh",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "ensin",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "entreg",
+                "tfidf": 0.10932910068214921
+            },
+            {
+                "item": "equip",
+                "tfidf": 0.042451899821041895
+            },
+            {
+                "item": "escrev",
+                "tfidf": 0.14375462898282065
+            },
+            {
+                "item": "estrutur",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "etc",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "evidenci",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "experinc",
+                "tfidf": 0.2875092579656413
+            },
+            {
+                "item": "faculdad",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "fcil",
+                "tfidf": 0.042451899821041895
+            },
+            {
+                "item": "fort",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "garant",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "gil",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "git",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "grau",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "habil",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "hibernat",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "html",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "integr",
+                "tfidf": 0.14375462898282065
+            },
+            {
+                "item": "ionic",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "jav",
+                "tfidf": 0.16399365102322383
+            },
+            {
+                "item": "javascript",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "jee",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "jenkim",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "jmet",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "jpa",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "json",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "juni",
+                "tfidf": 0.14375462898282065
+            },
+            {
+                "item": "junit",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "jwt",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "linux",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "log",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "maven",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "melhor",
+                "tfidf": 0.042451899821041895
+            },
+            {
+                "item": "microservi",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "mobil",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "mockit",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "modern",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "mudan",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "multidisciplin",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "nginx",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "oauth",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "oracl",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "orient",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "pacot",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "pag",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "perfil",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "plsql",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "prefer",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "prepar",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "problem",
+                "tfidf": 0.10932910068214921
+            },
+            {
+                "item": "process",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "produz",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "prtic",
+                "tfidf": 0.10932910068214921
+            },
+            {
+                "item": "qualifica",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "rea",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "react",
+                "tfidf": 0.14375462898282065
+            },
+            {
+                "item": "realiz",
+                "tfidf": 0.042451899821041895
+            },
+            {
+                "item": "relacion",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "requisit",
+                "tfidf": 0.042451899821041895
+            },
+            {
+                "item": "respons",
+                "tfidf": 0.14375462898282065
+            },
+            {
+                "item": "rest",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "result",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "reutiliz",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "revis",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "segu",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "seguint",
+                "tfidf": 0.14375462898282065
+            },
+            {
+                "item": "selenium",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "simil",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "singl",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "slid",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "soap",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "soapu",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "softw",
+                "tfidf": 0.042451899821041895
+            },
+            {
+                "item": "solu",
+                "tfidf": 0.042451899821041895
+            },
+            {
+                "item": "sonarqub",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "spa",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "spring",
+                "tfidf": 0.21563194347423098
+            },
+            {
+                "item": "springboot",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "springdat",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "superi",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "suport",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "tdd",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "tecnolog",
+                "tfidf": 0.054664550341074605
+            },
+            {
+                "item": "tecnologiasframework",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "test",
+                "tfidf": 0.10932910068214921
+            },
+            {
+                "item": "testvel",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "tomcat",
+                "tfidf": 0.07187731449141033
+            },
+            {
+                "item": "unitri",
+                "tfidf": 0.10932910068214921
+            },
+            {
+                "item": "utiliz",
+                "tfidf": 0.12735569946312567
+            },
+            {
+                "item": "web",
+                "tfidf": 0.14375462898282065
+            },
+            {
+                "item": "xml",
+                "tfidf": 0.07187731449141033
+            }
+        ]
+    },
+    {
+        "titulo": "Código: 56892 - Título: Arquiteto Java",
+        "texto": "Elaborar e desenhar arquitetura da aplicação - Liderar equipe de desenvolvedores, promovendo melhores práticas de arquitetura e código - Atuar em conjunto com Analista Funcional para entender os requisites funcionais e definir solução técnica - Atuar como facilitador entre o Analista Funcional e equipe técnica. - Criar a estrutura física do projeto, utilizando frameworks e ferramentas aderentes ao escopo técnico da aplicação - Atuar como desenvolvedor suportando os demais desenvolvedores e realizar refactoring - Garantir qualidade do código entregue e realizar revisão de código - Contribuir em todas as fases do ciclo de desenvolvimento de software (SDLC) - Habilidade em atuar com equipes multi-disciplinares em ambiente ágil. - Perfil: forte capacidade analítica, orientado a resultados, colaborativo, fácil adaptação a mudanças e solução de problemas. - Certificação Java (Diferencial) - Certificação AWS (Diferencial)",
+        "tokens": [
+            {
+                "item": "adapta",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "ader",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "ambi",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "anal",
+                "tfidf": 0.24364213417707334
+            },
+            {
+                "item": "aplica",
+                "tfidf": 0.126139901242948
+            },
+            {
+                "item": "arquitet",
+                "tfidf": 0.16242808945138223
+            },
+            {
+                "item": "atu",
+                "tfidf": 0.32485617890276447
+            },
+            {
+                "item": "aw",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "capac",
+                "tfidf": 0.063069950621474
+            },
+            {
+                "item": "cdig",
+                "tfidf": 0.24364213417707334
+            },
+            {
+                "item": "certifica",
+                "tfidf": 0.16242808945138223
+            },
+            {
+                "item": "cicl",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "colabor",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "conjunt",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "contribu",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "cri",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "defin",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "demal",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "desenh",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "desenvolv",
+                "tfidf": 0.252279802485896
+            },
+            {
+                "item": "difer",
+                "tfidf": 0.16242808945138223
+            },
+            {
+                "item": "elabor",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "entend",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "entreg",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "equip",
+                "tfidf": 0.189209851864422
+            },
+            {
+                "item": "escop",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "estrut",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "facilit",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "fas",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "fcil",
+                "tfidf": 0.063069950621474
+            },
+            {
+                "item": "ferrament",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "fort",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "framework",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "fsic",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "func",
+                "tfidf": 0.320360127218411
+            },
+            {
+                "item": "garant",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "gil",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "habil",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "jav",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "lider",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "melhor",
+                "tfidf": 0.063069950621474
+            },
+            {
+                "item": "mudan",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "multidisciplin",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "orient",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "perfil",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "problem",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "projet",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "promov",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "prtic",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "realiz",
+                "tfidf": 0.126139901242948
+            },
+            {
+                "item": "refactoring",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "requisit",
+                "tfidf": 0.063069950621474
+            },
+            {
+                "item": "result",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "revis",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "sdlc",
+                "tfidf": 0.10678670907280367
+            },
+            {
+                "item": "softw",
+                "tfidf": 0.063069950621474
+            },
+            {
+                "item": "solu",
+                "tfidf": 0.126139901242948
+            },
+            {
+                "item": "suport",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "tecn",
+                "tfidf": 0.24364213417707334
+            },
+            {
+                "item": "tod",
+                "tfidf": 0.08121404472569112
+            },
+            {
+                "item": "utiliz",
+                "tfidf": 0.063069950621474
+            }
+        ]
+    }
+]

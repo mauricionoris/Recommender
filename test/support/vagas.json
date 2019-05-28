@@ -1,0 +1,122 @@
+[
+  {
+    "empresa":"BRQ",
+    "dt_criacao":"20190101",
+    "codigo": 56890,
+    "titulo": "Analista Requisitos Senior",
+    "desc": " Desenvolver e implantar sistemas informatizados dimensionando requisitos e funcionalidade do sistema, auxiliando na especificação da sua arquitetura, escolhendo ferramentas de desenvolvimento e especificando programas. Elaborar documentação para os sistemas e aplicações de fácil entendimento, visando a melhor interpretação dos programadores; Efetuar o levantamento das informações através de entrevistas com os clientes finais e gestores de desenvolvimento, visando elaborar os processos que serão utilizados na confecção dos sistemas e aplicações; Desenhar o diagrama de fluxos de informações, bem como inventariar software e hardware, efetuando o levantamento de todas as ferramentas necessárias para o desenvolvimento do projeto; Elaborar documentos necessários para o desenvolvimento do sistema e aplicação, efetuar toda a documentação necessária sobre níveis de serviços, capacidade e performance, soluções disponíveis, efetuando a divulgação destas para as áreas envolvidas; Elaborar os estudos de viabilidade técnica e econômica, bem como especificações técnicas, verificando a viabilidade do projeto; Realizar auditoria e monitorar a performance do sistema e aplicação, identificando e corrigindo falhas e executando procedimentos para melhorias; Ministrar treinamento, preparando conteúdo programático e o material didático, determinando os pré-requisitos do treinamento, e os recursos áudio visuais; Pesquisar e identificar novas tecnologias, identificando fornecedores, solicitando demonstrações de produto e avaliando a funcionalidade do produto, visando manter atualizados os sistemas e aplicações da empresa; Coordenar projetos de desenvolvimento de sistemas e aplicações, selecionando equipes de trabalho, preparando cronogramas de atividades e financeiro, administrando recursos internos e externos, delegando funções e acompanhando a execução do projeto, avaliando a qualidade dos sistemas e aplicações desenvolvidos e validando o produto final junto aos clientes; Testes unitário e acompanhamento da homologação nas áreas de negócio.",
+    "requisitos":[],
+    "beneficios": [],
+    "salario": {"unidade": "BRL", "periodicidade":"mensal", "valor":8500.00, "qt_ano":13},
+    "localidade":"04520-000",
+    "area_atuacao":"recursos humanos",
+    "anos_experiencia": {"min":1,"max":20},
+    "nivel": {"cargo":"tecnico", "gerencia_equipe":false},
+    "processo_seletivo":[
+        {
+          "id_etapa":1,
+          "nome_etapa":"Triagem Curriculos",
+          "periodo": {"inicio": 20190101, "fim": 20190107},
+          "candidatos":[1,2,3,4,5,6,7,8,9,10]
+        },
+        {
+          "id_etapa":2,
+          "nome_etapa":"Etapa2",
+          "periodo": {"inicio": 20190107, "fim": 20190114},
+          "candidatos":[2,4,6,7,9,10]
+        },
+        {
+          "id_etapa":3,
+          "nome_etapa":"Etapa3",
+          "periodo": {"inicio": 20190114, "fim": 20190118},
+          "candidatos":[2,4,9,10]
+        },
+        {
+          "id_etapa":4,
+          "nome_etapa":"Final",
+          "periodo": {"inicio": 20190118, "fim": 20190123},
+          "candidatos":[9]
+        }
+    ]
+  },
+  {
+    "empresa":"BRQ",
+    "dt_criacao":"20190101",
+    "codigo": 56891,
+    "titulo": "Desenvolvedor Backend Java Senior",
+    "desc": " Qualificações: - Ensino Superior completo em uma ou mais das seguintes áreas: Engenharia, Ciência da Computação ou faculdades relacionadas à tecnologia. -experiência prática com desenvolvimento de aplicações WEB e Mobile utilizando Java (JEE) -experiência em desenvolvimento de aplicações modernas utilizando Spring / Spring Boot e SPA (Single Page Application) -experiência com processos CI/CD -experiência com testes unitários e integrados (TDD e BDD) - Sólidos conhecimentos nas seguintes tecnologias/frameworks: - Java 6+ - Spring 3+ - SpringBoot (Preferencial) - Hibernate / JPA / SpringData - REST e SOAP - JSON, XML - OAuth2.0 e JWT - DevOps – Git, Maven, Jenkins, SonarQube, Docker, etc. - Junit, Mockito, JMeter, SoapUI (Ou similares) - Javascript (Angular ou React), HTML5, CSS3 – Desejável - Banco de Dados Oracle e PL/SQL - Linux / Apache Tomcat / Nginx - Selenium e Cucumber (Desejável) - Angular 2+ ou React (Diferencial) - Ionic 2/3 (Diferencial) Responsabilidades: - Desenvolver aplicação WEB responsiva utilizando conceitos de micro-serviços. - Escrever códigos bem estruturados, eficientes, testáveis e reutilizáveis. - Escrever testes unitários e integrados com alto grau de cobertura dos requisitos. - Assegurar que as melhores práticas de codificação sejam seguidas pelos juniors. - Preparar e produzir os pacotes de software a serem entregues. - Analisar logs, evidenciar problemas e diagnósticos. - Suportar os desenvolvedores mais juniors. - Garantir qualidade do código entregue e realizar revisão de código. - Habilidade em atuar com equipes multi-disciplinares em ambiente ágil. - Perfil: forte capacidade analítica, orientado a resultados, colaborativo, fácil adaptação a mudanças e solução de problemas. - Certificação Java (Diferencial)",
+    "requisitos":[],
+    "beneficios": [],
+    "salario": {"unidade": "BRL", "periodicidade":"mensal", "valor":9000.00, "qt_ano":13},
+    "localidade":"05021-000",
+    "area_atuacao":"recursos humanos",
+    "anos_experiencia": {"min":1,"max":20},
+    "nivel": {"cargo":"tecnico", "gerencia_equipe":false},
+    "processo_seletivo":[
+        {
+          "id_etapa":1,
+          "nome_etapa":"Triagem Curriculos",
+          "periodo": {"inicio": 20190101, "fim": 20190107},
+          "candidatos":[4,5,6,7,8,9,10,11,12,13]
+        },
+        {
+          "id_etapa":2,
+          "nome_etapa":"Etapa2",
+          "periodo": {"inicio": 20190107, "fim": 20190114},
+          "candidatos":[4,5,7,9,10,12,13]
+        },
+        {
+          "id_etapa":3,
+          "nome_etapa":"Etapa3",
+          "periodo": {"inicio": 20190114, "fim": 20190118},
+          "candidatos":[4,9,10,12,13]
+        },
+        {
+          "id_etapa":4,
+          "nome_etapa":"Final",
+          "periodo": {"inicio": 20190118, "fim": 20190123},
+          "candidatos":[12]
+        }
+    ]
+  },
+  {
+    "empresa":"Reachr",
+    "dt_criacao":"20190103",
+    "codigo": 56892,
+    "titulo": "Arquiteto Java",
+    "desc": "Elaborar e desenhar arquitetura da aplicação - Liderar equipe de desenvolvedores, promovendo melhores práticas de arquitetura e código - Atuar em conjunto com Analista Funcional para entender os requisites funcionais e definir solução técnica - Atuar como facilitador entre o Analista Funcional e equipe técnica. - Criar a estrutura física do projeto, utilizando frameworks e ferramentas aderentes ao escopo técnico da aplicação - Atuar como desenvolvedor suportando os demais desenvolvedores e realizar refactoring - Garantir qualidade do código entregue e realizar revisão de código - Contribuir em todas as fases do ciclo de desenvolvimento de software (SDLC) - Habilidade em atuar com equipes multi-disciplinares em ambiente ágil. - Perfil: forte capacidade analítica, orientado a resultados, colaborativo, fácil adaptação a mudanças e solução de problemas. - Certificação Java (Diferencial) - Certificação AWS (Diferencial)",
+    "requisitos":[],
+    "beneficios": [],
+    "salario": {"unidade": "BRL", "periodicidade":"mensal", "valor":7800.00, "qt_ano":13},
+    "localidade":"03542-000",
+    "area_atuacao":"recursos humanos",
+    "anos_experiencia": {"min":1,"max":20},
+    "nivel": {"cargo":"tecnico", "gerencia_equipe":false},
+    "processo_seletivo":[
+        {
+          "id_etapa":1,
+          "nome_etapa":"Triagem Curriculos",
+          "periodo": {"inicio": 20190101, "fim": 20190107},
+          "candidatos":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,16]
+        },
+        {
+          "id_etapa":2,
+          "nome_etapa":"Etapa2",
+          "periodo": {"inicio": 20190107, "fim": 20190114},
+          "candidatos":[4,5,7,9,10,12,13,14,15]
+        },
+        {
+          "id_etapa":3,
+          "nome_etapa":"Etapa3",
+          "periodo": {"inicio": 20190114, "fim": 20190118},
+          "candidatos":[4,9,10,12,13,14,15]
+        },
+        {
+          "id_etapa":4,
+          "nome_etapa":"Final",
+          "periodo": {"inicio": 20190118, "fim": 20190123},
+          "candidatos":[13]
+        }
+    ]
+  }
+]

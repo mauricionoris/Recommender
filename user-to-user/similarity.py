@@ -1,8 +1,17 @@
-
-
-
 import pandas as pd
 import numpy as np
+import sys
+
+if len(sys.argv) - 1 != 2:
+    raise ValueError('Incorrect parameter')
+
+st =  int(sys.argv[1])
+ed =  int(sys.argv[2])
+
+if st >= ed:
+    raise ValueError('End should be greater than start')
+
+print (st, ed)
 
 _datafolder = '~/repo/Recommender/data/'
 mtx = pd.read_csv(_datafolder  +  'MatchPart.tsv', sep='\t')
@@ -13,7 +22,7 @@ rowid =0
 batch =0
 df = pd.DataFrame([], columns = ['Cnd_1', 'Cnd_2', 'Apps_1', 'Apps_2', 'Joint_Apps', 'Similarity'])
 
-for u1 in range(0,mtxx.shape[0]-1):
+for u1 in range(st, ed):
     user1 = mtxx.iloc[u1]
     apps_u1 = mtx[mtx['CandidatoId'] == user1['CandidatoId']]
     for u2 in range(u1+1,mtxx.shape[0]):
@@ -31,6 +40,6 @@ for u1 in range(0,mtxx.shape[0]-1):
 
         if rowid%1000 == 0 and len(df) > 0:
             print('batch output_{}'.format(batch))
-            df.to_csv(_datafolder + '/output/rec_colab_users_from_{}_to_{}.tsv'.format(batch,rowid), sep='\t')
+            df.to_csv(_datafolder + '/output/rec_{}_{}_colab_users_from_{}_to_{}.tsv'.format(st, ed, batch,rowid), sep='\t')
             batch = rowid
             df = pd.DataFrame([], columns = ['Cnd_1', 'Cnd_2', 'Apps_1', 'Apps_2', 'Joint_Apps', 'Similarity'])
